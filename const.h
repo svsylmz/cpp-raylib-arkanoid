@@ -1,0 +1,5 @@
+#define WINDOW_WIDTH 1024
+#define WINDOW_HEIGHT 768
+
+#define BLOCK_COLUMN 16
+#define BLOCK_ROW 4
